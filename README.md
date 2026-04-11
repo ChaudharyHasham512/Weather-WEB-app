@@ -21,4 +21,4 @@ Geolocation API
 HTML5 – Structure
 CSS3 – Styling & responsiveness
 JavaScript (Vanilla JS) – Logic & API handling
-Weather API – (e.g., OpenWeatherMap)
+Weather API –
